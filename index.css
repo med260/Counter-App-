@@ -8,20 +8,11 @@ body {
 
 .container {
     background: rgb(255, 255, 255);
-    opacity: 100%;
     max-width: 80%;
     margin: auto;
-    border: 3px solid black;
+    border: 3px solid rgb(189, 39, 39);
     border-radius: 10px;
-    pointer-events: none;
-    backdrop-filter: blur(50px); /* Adjust the blur radius */
 
-
-}
-.btn-op  {
-    background: rgb(2, 2, 2);
-    opacity: 1;
-   
 }
 
 h1 {
